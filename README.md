@@ -1,6 +1,9 @@
 Development Methods of Applied Intelligent Software Systems
+
 Shopping pratical task
+
 Hugo Dos Anjos Dos Santos
+
 240AMM047
 
 The results from your nearest-neighbor classifier provide a strong foundation for understanding user behavior on the shopping website, particularly in identifying sessions that do not result in a purchase, as evidenced by a high true negative rate of 90.34%. However, the true positive rate of 39.13% indicates room for improvement in accurately capturing potential purchasing sessions.
